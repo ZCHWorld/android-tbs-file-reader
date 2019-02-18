@@ -44,7 +44,7 @@ public class MainActivity extends Activity {
     private ProgressDialog progressDialog;
 
     // 这里换成你的开发机的ip
-    private static final String HOST = "192.168.0.101";
+    private static final String HOST = "192.168.0.106";
 
 
     @Override
